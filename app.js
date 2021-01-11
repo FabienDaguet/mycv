@@ -16,7 +16,7 @@ function scrollAnimation() {
         body.style.backgroundSize = "cover";
     } else if (pro.getBoundingClientRect().top <= 585 && pro.getBoundingClientRect().top >= 65.375) {
 
-        body.style.background = "url(img/cerces.jpg) no-repeat center center fixed";
+        body.style.background = "url(img/test.jpg) no-repeat center center fixed";
         body.style.backgroundSize = "cover";
         body.style.transitionDuration = "0.5s"
     } 
