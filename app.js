@@ -6,8 +6,8 @@ let comp = document.querySelector(".comp-js");
 let background = document.querySelector(".background-js");
 
 
-    console.log(pro.getBoundingClientRect().top);
-    console.log(comp.getBoundingClientRect().top);
+    //console.log(pro.getBoundingClientRect().top);
+    //console.log(comp.getBoundingClientRect().top);
 
 function scrollAnimation() {
 
