@@ -28,7 +28,7 @@ function scrollAnimation() {
 
                     element.style.width = element.getAttribute("data-done") + "%";
                     element.style.opacity = 1;
-                    body.style.background = "url(img/code.png) no-repeat center center fixed";
+                    body.style.background = "url(img/code.jpg) no-repeat center center fixed";
                     body.style.backgroundSize = "cover";
                 } 
             }, 1000
