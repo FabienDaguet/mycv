@@ -11,7 +11,7 @@ let background = document.querySelector(".background-js");
 
 function scrollAnimation() {
 
-    if (window.matchMedia("(min-width: 768px)").matches) {
+    if (window.matchMedia("(min-width: 1024px)").matches) {
         if (pro.getBoundingClientRect().top > 585) {
             background.style.background = "url(img/backpic.jpg) no-repeat center center fixed";
             background.style.backgroundSize = "cover";
