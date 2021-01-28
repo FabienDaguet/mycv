@@ -113,7 +113,11 @@
 }
 
 .liste-title {
-    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.liste-description {
+    margin-top: 0.5rem;
 }
 
 .page-container {
